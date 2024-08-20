@@ -4,6 +4,9 @@
   box-sizing: border-box;
   font-family: "ariel", sans-serif;
 }
+body {
+  background-color: red;
+}
 
 :root {
   --primary-color: #3030f3;
